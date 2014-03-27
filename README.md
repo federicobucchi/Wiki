@@ -3,6 +3,7 @@ Fed Wiki
 
 Guides, Specs, Info etc.
 
+```
          +-----+
          |     |
          |     |
@@ -20,3 +21,4 @@ Guides, Specs, Info etc.
          |     |
          |     |
          +-----+
+```
